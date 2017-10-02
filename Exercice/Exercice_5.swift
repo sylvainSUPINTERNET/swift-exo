@@ -26,7 +26,7 @@ extension ApiManager {
             //var lastname = resultats["last"] as! [String:String];
             //var email = resultats["email"]
             //print(name["first"]!)
-            //print(email)
+        
             
             // PAS LE TEMPS : Person(firstname: name["first"]!, lastname: name["last"]!, gender: Person.Gender, email: "pasletemps@d.fr", birthdate: Date)
         })
